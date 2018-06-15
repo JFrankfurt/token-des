@@ -9,5 +9,11 @@ project data api: ???
 
 ## existing price data projects
 https://coinlib.io/
+
 https://coinmarketcap.com/
 
+### todo:
+- get a reference data api from truset
+- wireframes
+    - desktop
+    - mobile
